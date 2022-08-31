@@ -1,5 +1,6 @@
 # Updated metoffer lib to run using urllib3, tested on python 3.9
-# Updated by J.O'Hare
+# Updated by rodneyrodneybristol
+
 
 
 import datetime
