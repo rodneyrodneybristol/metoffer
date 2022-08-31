@@ -2,7 +2,7 @@ import metoffer
 # I was mainly using this to check weather for local skateparks
 # Sign up for a met office datapoint account (for free!)
 # You can then get an API key once registered
-api_key = "ce0d4a4a-cdc8-4e94-90ba-ae09bc4040e5"
+api_key = ""
 
 M = metoffer.MetOffer(api_key)
 
